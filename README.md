@@ -1,2 +1,2 @@
 # rxvolley
-Call volley in a more elegant way by taking the advantage of RxJava
+Calling volley in a more elegant way by taking the advantage of RxJava
