@@ -3,6 +3,7 @@ Calling volley in a more elegant way by taking the advantage of RxJava.
 It depends on the jars of volley and RxJava, instead of the source.
 
 Sample: 
+
 Requests.build(url, RequestFactory.STRING)
     .put(RequestFactory.PARAM_METHOD, Request.Method.GET)
     .submit()
